@@ -10,3 +10,5 @@ except ConnectionError:
     print("connection error")
 except ZeroDivisionError:
     print("error when dividing by zero")
+
+print("done locally at work")
