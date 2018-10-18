@@ -1,3 +1,6 @@
+# print / format print
+# user input
+
 print("1.Hello World")
 name = "World"
 
